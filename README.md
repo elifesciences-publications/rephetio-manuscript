@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Himmelstein et al., "Systematic integration of biomedical knowledge prioritizes drugs for repurposing". eLife, 2017. http://dx.doi.org/10.7554/eLife.26726
+
 # Project Rephetio Manuscript Source
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
